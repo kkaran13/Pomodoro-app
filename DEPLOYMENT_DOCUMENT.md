@@ -1,11 +1,9 @@
-# Environment Variables Used in Pomodoro-app
+# Environment Variables Report
+Scanned Branch: **main**
 
-Scanned branch: `main`
-
-## Variables Found
-- `TIMER_TYPE_POMODORO`
-- `TIMER_TYPE_SHORT_BREAK`
-- `formatNumberInStringMinute(timerValue)`
-- `minutes`
-- `seconds`
-- `timerValue * multiplierFactor`
+## /home/runner/work/markdown-automation/markdown-automation/scripts/scan_envs.py
+- `TARGET_BRANCH`
+- `encoding`
+- `errors`
+- `format`
+- `main`
